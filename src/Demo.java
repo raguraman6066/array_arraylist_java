@@ -1,3 +1,4 @@
+
 /*
  * array is a collection of similar type of elements.
  * fixed size..we cant resize once defined.

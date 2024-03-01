@@ -1,3 +1,4 @@
+
 public class MinArray {
     public static void main(String[] args) {
         int[] arr = { 4, 5, 3, 1, 9 };
@@ -13,8 +14,6 @@ public class MinArray {
                 min = arr[i];
             }
         }
-
         System.out.println("minimum value " + min);
-
     }
 }
